@@ -20,10 +20,10 @@ Esse projeto é uma API REST de CRUD de estudante.
 
 ```json
 {
- "name": "nome teste",
- "email": "teste@teste.com",
- "age": 20,
- "birthday": "10/10/2010"
+  "name": "nome teste",
+  "email": "teste@teste.com",
+  "age": 20,
+  "birthday": "10/10/2010"
 }
 ```
 
@@ -31,7 +31,7 @@ Esse projeto é uma API REST de CRUD de estudante.
 
 ```json
 {
-	"name": "nome teste 2"
+  "name": "nome teste 2"
 }
 ```
 
