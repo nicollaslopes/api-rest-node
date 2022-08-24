@@ -11,7 +11,7 @@ Esse projeto é uma API REST de CRUD de estudante.
 
 - Clone e acesse o diretório do projeto, instale as dependências com o comando `npm install`.
 - Inicie o container do PostgreSQL com o comando `sudo docker compose up -d`.
-- Coloque 
+- Altere o arquivo `db.js` localizado na raíz do projeto por suas credenciais do banco de dados.
 - Para executar a conectar a API execute no seu terminal o comando `npm start`.
 
 ## Endpoints da API
