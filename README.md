@@ -18,7 +18,7 @@ Esse projeto é uma API REST de CRUD de estudante.
 
 #### `POST /api/v1/students/` - cria um estudante;
 
-```
+```json
 {
 	"name": "nome teste",
 	"email": "teste@teste.com",
@@ -26,3 +26,17 @@ Esse projeto é uma API REST de CRUD de estudante.
 	"birthday": "10/10/2010"
 }
 ```
+
+#### `PUT /api/v1/students/{id}` - atualiza o nome de um estudante;
+
+```json
+{
+	"name": "nome teste 2"
+}
+```
+
+#### `DELETE /api/v1/students/{id}` - deleta um estudante;
+
+#### `GET /api/v1/students/` - retorna todos os estudantes;
+
+#### `GET /api/v1/students/{id}` - retorna um estudante pelo id;
