@@ -1,6 +1,6 @@
 Esse projeto é uma API REST de CRUD de estudante.
 
-## Ferramentas utilizadas
+## Tecnologias utilizadas
 
 - Node.js
 - Banco de Dados: PostgreSQL
